@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Kusuma! 👋
 
-<!--
-**N230133/N230133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech AI & ML Student at RGUKT Nuzvid.
 
-Here are some ideas to get you started:
+## About Me
+- Interested in Python Development and Data Analytics.
+- Completed Web Development Internship at Future Interns.
+- Learning and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python, C, Java
+- NumPy, Pandas, Matplotlib
+- HTML, CSS
+- Jupyter Notebook, Git, GitHub
+
+## Experience
+**Web Development Intern – Future Interns**
+
+Worked on developing a responsive business website using HTML and CSS.
+
+## Projects
+- Sri Durga Karthikeya Metal Stores Website
+- Python Programming Projects
+- Data Analysis Academic Projects
+
+## Connect With Me
+- GitHub: https://github.com/N230133
+- LinkedIn: https://linkedin.com/in/kusuma-surisetti-31aa88373
